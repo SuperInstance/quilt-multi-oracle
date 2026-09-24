@@ -5,3 +5,15 @@ build/
 dist/
 .venv/
 venv/
+
+# added by commit-and-push-all
+*.pyd
+.pytest_cache/
+.eggs/
+target/
+node_modules/
+.cache/
+.wrangler/
+.DS_Store
+*.log
+.env
